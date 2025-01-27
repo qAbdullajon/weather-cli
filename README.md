@@ -64,8 +64,16 @@ Ushbu dastur OpenWeatherMap API'sidan foydalanadi. API kalitini olish uchun quyi
 
 3. **Ob-havo ma'lumotlarini olish:**
    Shunchaki dastur ishga tushiring:
+
    ```bash
    node index.js
+
+   // Weather City weather Egypt
+   // ⛅  few clouds
+   // Temperature: -2.59 (feels like: -7.15)
+   // Temperature: -2.59 (feels like: -7.15)
+   // Humidity: 62%
+   // Wind speed: 3.6
    ```
 
 ---
