@@ -16,8 +16,8 @@ Bu terminalda ishlaydigan ob-havo dasturi bo'lib, ob-havo ma'lumotlarini ko'rsat
 1. **Loyihani yuklab olish yoki klonlash:**
 
    ```bash
-   git clone https://github.com/qAbdullajon/repo.git
-   cd repo
+   git clone https://github.com/qAbdullajon/weather-cli.git
+   cd weather-cli
    ```
 
 2. **Kerakli paketlarni o'rnatish:**
@@ -95,7 +95,7 @@ Ushbu dastur OpenWeatherMap API'sidan foydalanadi. API kalitini olish uchun quyi
 ## Muallif
 
 **Ismingiz**  
-GitHub: [username](https://github.com/qAbdullajon)  
+GitHub: [qAbdullajon](https://github.com/qAbdullajon)  
 Email: abdullajonq6@gmail.com
 
 ---
