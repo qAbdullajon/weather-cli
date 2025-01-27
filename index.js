@@ -47,7 +47,6 @@ const getForcast = async () => {
 
 const startCli = () => {
   const args = getArgs(process.argv);
-  // console.log(process.env);
 
   if (args.h) {
     return printHelp();
@@ -58,7 +57,6 @@ const startCli = () => {
   if (args.t) {
     return saveToken(args.t);
   }
-  // result
   return getForcast();
 };
 
